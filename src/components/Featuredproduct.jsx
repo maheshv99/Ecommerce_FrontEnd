@@ -10,6 +10,8 @@ const FeaturedProduct = () => {
   return (
     <>
     <div style={{width:"80%",margin:"0 auto"}}>
+      <p><h1 style={{color:'black',fontSize:'60px',fontWeight:'20px',textAlign:'center'}}>Featured Product...</h1></p><br/>
+      
     <CardGroup>
       <Card>
         <Card.Img variant="top" src={airpod1} />

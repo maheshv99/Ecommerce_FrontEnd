@@ -72,10 +72,10 @@ function Footer() {
                   <h2>Contact Us</h2>
                   <br />
                   <p>
-                    Email :<a href="#"> ishop99@gmail.com</a>
+                    Email :<strong> ishop99@gmail.com</strong>
                     <br />
                     <br />
-                    Ph-No: <a href="#">586130-58963</a>
+                    Ph-No: <strong>586130-58963</strong>
                   </p>
                 </MDBCol>
               </MDBRow>
